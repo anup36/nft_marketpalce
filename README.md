@@ -1,4 +1,4 @@
-# nft_marketpalce
+# nft marketpalce
 
 
 There are 2 folder Server and client-frontend
@@ -21,4 +21,4 @@ Server repo has nodejs code which and written in trffule framework. To start
 
 # Contract 
 
-Contract repos has NFT Contract which our main contract containing all blockchain releated logic.
+Contract repos has NFT Smart Contract which our main contract containing all blockchain releated logic.
